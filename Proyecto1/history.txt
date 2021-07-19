@@ -7,3 +7,5 @@ Estoy interesado en el desarrollo de aplicaciones web
 y moviles asi como hacking etico
 
 modificado el 19-07-2021
+
+Author 'Jesus Osorio'
